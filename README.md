@@ -8,4 +8,4 @@
 💬 Ask me about Flutter, Python, Django or any tech and business related topics.
   Reach me: fredricknjeri64@gmail.com or software8@varaluae.com
 
-#WORK GITHUB ACCOUNT:github.com/Fredrick-Njeri
+#WORK GITHUB ACCOUNT: github.com/Fredrick-Njeri
