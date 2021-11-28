@@ -9,5 +9,6 @@
   Reach me: fredricknjeri64@gmail.com or software8@varaluae.com
 
 #WORK GITHUB ACCOUNT: https://github.com/Fredrick-Njeri/
+Constantly learning, constantly creating
 
 
