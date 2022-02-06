@@ -7,6 +7,8 @@
 
 💬 Ask me about Flutter, Python, Django or any tech and business related topics.
   Reach me: fredricknjeri64@gmail.com or software8@varaluae.com
+  
+  Blockchain and dApps Advocate.
 
 #WORK GITHUB ACCOUNT: https://github.com/Fredrick-Njeri/
 Constantly learning, constantly creating
