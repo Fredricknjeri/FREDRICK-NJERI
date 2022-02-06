@@ -11,4 +11,5 @@
 #WORK GITHUB ACCOUNT: https://github.com/Fredrick-Njeri/
 Constantly learning, constantly creating
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Fredricknjeri&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
