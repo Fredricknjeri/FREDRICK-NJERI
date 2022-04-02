@@ -10,7 +10,7 @@
   
   Blockchain and dApps Advocate.
 
-#WORK GITHUB ACCOUNT: https://github.com/Fredrick-Njeri/
+
 Constantly learning, constantly creating
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fredricknjeri&show_icons=true&theme=radical)
